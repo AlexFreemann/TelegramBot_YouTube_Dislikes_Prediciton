@@ -10,6 +10,6 @@ And created telegam bot. Right now it is online @Alfpy_bot
 
 Bot can predict rating video, just send a link
 
-Bot save normalized data and later (now I need more data) I type script for additional everyday training using this data 
+Bot save normalized data and later (now I need more data) I'll type script for additional everyday training using this data 
 
 
